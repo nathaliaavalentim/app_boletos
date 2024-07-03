@@ -19,8 +19,8 @@ Teste de Processamento de CSV Inválido e Teste de Processamento de CSV Válido.
 7)Execução de testes: python manage.py test boletos.tests.integration.tests e python manage.py test boletos.tests.unit.tests
 
 8)Comando Docker: docker-compose up --build
-docker pull nomeusuario/nome-da-imagem:1
+docker pull nathaliavalentim/imagem_app_boletos:1
 Disponível em:
-docker.io/nathaliavalentim/nome-da-imagem    
+docker.io/nathaliavalentim/imagem_app_boletos   
 
 9) No navegador, digite: http://localhost:8000/boletos/upload/
